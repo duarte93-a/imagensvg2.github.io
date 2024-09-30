@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470.47 94.38">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 78px;
+      }
+
+      .cls-2 {
+        fill: red;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+     .rebote{
+     fill: #61750E;
+     animation: rebote 1s infinite ease-in-out;
+     }
+   @keyframes rebote {
+    0%, 100% {
+        transform: translateY(0); 
+    }
+    50% {
+        transform: translateY(-25px); 
+    }
+}
+.rebote1{
+     fill: #61750E;
+     animation: rebote 2s infinite ease-in-out;
+     }
+   @keyframes rebote {
+    0%, 100% {
+        transform: translateY(0); 
+    }
+    50% {
+        transform: translateY(-25px); 
+    }
+}
+.rebote2{
+     fill: #61750E;
+     animation: rebote 3s infinite ease-in-out;
+     }
+   @keyframes rebote {
+    0%, 100% {
+        transform: translateY(0); 
+    }
+    50% {
+        transform: translateY(-25px); 
+    }
+}
+
+    </style>
+  </defs>
+  <g id="Capa_1-2" data-name="Capa_1">
+    <text  class="cls-1" transform="translate(0 65.29)"><tspan x="0" y="0">ca</tspan><tspan class="cls-3" x="72.54" y="0">r</tspan><tspan x="97.42" y="0">g</tspan><tspan class="cls-2" x="141.02" y="0">ando </tspan></text>
+    <circle class="rebote" cx="347.47" cy="46.38" r="19"/>
+    <circle class="rebote1"  cx="451.47" cy="46.38" r="19"/>
+    <circle  class="rebote2" cx="398.47" cy="46.38" r="19"/>
+  </g>
+</svg>
